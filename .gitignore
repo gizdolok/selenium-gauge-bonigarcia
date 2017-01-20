@@ -1,4 +1,5 @@
 
+.idea/*
 logs/
 gauge_bin/
 out/
