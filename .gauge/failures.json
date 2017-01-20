@@ -1,0 +1,7 @@
+{
+	"Flags": {
+		"-env": "chrome",
+		"-simple-console": "true"
+	},
+	"FailedItems": []
+}
