@@ -1,7 +1,9 @@
 {
 	"Flags": {
-		"-env": "firefox",
+		"-env": "phantomjs",
 		"-simple-console": "true"
 	},
-	"FailedItems": []
+	"FailedItems": [
+		"specs\\01 Get started.spec:4"
+	]
 }
