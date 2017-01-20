@@ -1,6 +1,6 @@
 {
 	"Flags": {
-		"-env": "chrome",
+		"-env": "firefox",
 		"-simple-console": "true"
 	},
 	"FailedItems": []
